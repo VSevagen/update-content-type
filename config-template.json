@@ -1,0 +1,17 @@
+{
+  "accessToken": "",
+  "space": {
+      "spaceId": "",
+      "environmentId": "",
+      "locale":""
+  },
+  "contentType": {
+      "id": "",
+      "newAppearance": {
+        "fieldId": "text",
+        "widgetId": "singleLine",
+        "widgetNamespace": "builtin"
+      }
+  },
+  "extractFields": "sys.id,fields.text"
+}
